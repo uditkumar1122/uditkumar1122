@@ -14,6 +14,26 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+**Languages:** C++, JavaScript, SQL, HTML
+
+**Frontend:** React.js, Next.js, CSS3, Tailwind CSS, Responsive Design
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Authentication:** JWT, RBAC, Authentication & Authorization
+
+**Databases:** MongoDB, SQL
+
+**Tools:** Git, GitHub, VS Code, Postman
+
+**AI Tools:** ChatGPT, Claude, Google Gemini, GitHub Copilot, Antigravity
+
+**Core CS:** Data Structures & Algorithms, OOPs, DBMS, SDLC
+
+---
+
 ## 🏆 Current Goals
 
 - Build scalable, production-ready full-stack applications
@@ -36,26 +56,6 @@ Full-stack AI-powered SaaS platform (MERN stack) for resume building, cover lett
 - Integrated AI/LLM APIs to optimize resumes against job descriptions, generate ATS compatibility scores, and create tailored cover letters and interview questions
 - Designed a guided multi-step workflow (Upload → Add Job Description → AI Optimize → Export PDF) with multiple customizable resume templates
 - Implemented user authentication, profile management, and a Freemium subscription model with tiered feature access
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** C++, JavaScript, SQL, HTML
-
-**Frontend:** React.js, Next.js, CSS3, Tailwind CSS, Responsive Design
-
-**Backend:** Node.js, Express.js, REST APIs
-
-**Authentication:** JWT, RBAC, Authentication & Authorization
-
-**Databases:** MongoDB, SQL
-
-**Tools:** Git, GitHub, VS Code, Postman
-
-**AI Tools:** ChatGPT, Claude, Google Gemini, GitHub Copilot, Antigravity
-
-**Core CS:** Data Structures & Algorithms, OOPs, DBMS, SDLC
 
 ---
 
